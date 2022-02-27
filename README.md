@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mr. V
-- 👀 I’m interested in Cars, food and blockchain.
+- 👀 I’m interested in Fintech, Cybersec and blockchain.
 - 🔭 I’m currently working on GambaVerse & Gambakitties.club
 - 🌱 I’m currently learning farming and Bridging on MultiChain
 - 💞️ I’m looking to collaborate on NFTs, Crypto tokenomics and marketing
